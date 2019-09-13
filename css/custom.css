@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 18, 2018, 8:04:33 PM
+    Author     : Jananath Banuka
+*/
+
+.transparent-navbar{
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";       /* IE 8 */
+    filter: alpha(opacity=50);  /* IE 5-7 */
+    -moz-opacity: 0.5;          /* Netscape */
+    -khtml-opacity: 0.5;        /* Safari 1.x */
+    opacity: 0.5;  
+    box-shadow: 1px 5px black;
+
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+}
+.transparent-navbar .navbar-brand {
+    color: orange;
+}
+.navbar.navbar-expand {
+  background-color: transparent;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;    
+}
+
+.navbar a{
+    /*border: 1px solid red;*/
+    color: white !important;
+}

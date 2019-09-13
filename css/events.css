@@ -1,0 +1,74 @@
+.events {
+
+	margin-top:30px;
+	margin-left:80px;
+	margin-right:80px;
+	margin-bottom:20px;
+
+}
+
+.event-h3 {
+
+	text-align:center;
+	padding:20px;
+	
+}
+
+.event-paragraph {
+
+	text-align:center;
+	padding:10px;
+	letter-spacing:0px;
+	line-height:2px:
+
+}
+
+.event-button {
+
+	margin-left:20px;
+
+}
+
+
+.important-links {
+		
+	background-color:#1b181b;
+	padding-left:100px;
+	padding-top:40px;
+	padding-bottom:30px;
+
+}
+
+
+.important-links-h4 {
+	
+	color:#ffffff;
+	margin-bottom:20px;
+		
+}
+
+
+.important-links-a {
+	
+	color:#ffffff;
+	
+}
+
+.material-icons {
+	
+	color:#ffffff;
+		
+}
+
+.sliit-logo {
+	
+	margin-top:50px;
+	margin-bottom:20px;
+	
+}
+
+.footer {
+	
+	font-size:small;
+	
+}

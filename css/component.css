@@ -1,0 +1,106 @@
+/* Header */
+.large-header {
+    position: relative;
+    /*    width: 100%;*/
+    background: #333;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center center;
+    z-index: 1;
+}
+.large-header2 {
+    position: relative;
+    /*    width: 100%;*/
+    background: #333;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center center;
+    z-index: 1;
+}
+.large-header{
+    /*height: 100%;*/
+
+}
+.large-header2{
+    /*height: 100%;*/
+
+}
+
+.demo-1 .large-header {
+    background-image: url('../img/Header 3.jpg');
+
+    /*border: 10px solid red;*/
+    /*    background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;*/
+
+}
+
+.demo-10 .large-header2 {
+    background-image: url('../img/2k18.jpg');
+
+    /*border: 10px solid red;*/
+    /*    background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;*/
+
+}
+
+.main-title {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    color: #f9f1e9;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+
+}
+.main-title{
+    font-size: 75px;
+    width: 75%;
+}
+.minor-title {
+    position: absolute;
+    margin-top: 75px;
+    padding: 0;
+    color: #f9f1e9;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+}
+.minor-title2 {
+    position: absolute;
+    margin-top: 150px;
+    padding: 0;
+    color: #f9f1e9;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    font-family: 'Myriad Pro';
+    -webkit-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+}
+
+.main-title .thin {
+    font-weight: lighter;
+}
+
+@media only screen and (max-width : 768px) {
+    .demo-1 .main-title,
+    .demo-10 .main-title,
+    .demo-3 .main-title,
+    .demo-4 .main-title {
+        font-size: 3em;
+    }
+
+    .demo-2 .main-title {
+        font-size: 4em;
+    }
+}
