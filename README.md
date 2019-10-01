@@ -37,7 +37,7 @@ This project is the official web page of SLIIT Gaming Community.SLIIT Gaming com
 
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 * [Bootstrap](https://getbootstrap.com)
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 * [php](https://www.php.net/)
