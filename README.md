@@ -1,4 +1,5 @@
 # SLIIT_Gaming_community_official_web_page
+This web page is the official web page of SLIIT Gaming community.
 
 [![Build Status](https://img.shields.io/badge/Source%20Editor-Visual%20Code-blue.svg)](https://code.visualstudio.com/)
 
