@@ -4,6 +4,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![Fork][forks-shield]][forks-url]
 
 
 
@@ -118,7 +119,7 @@ Project Link: [https://github.com/SLIIT-GC/Official-web-page](https://github.com
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/SLIIT-GC/Official-web-page.svg?style=flat-square
 [contributors-url]: https://github.com/SLIIT-GC/Official-web-page/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SLIIT-GC/Official-web-pagee
+[forks-shield]: https://img.shields.io/github/forks/SLIIT-GC/Official-web-page
 [forks-url]: https://github.com/SLIIT-GC/Official-web-page/network/members
 [stars-shield]: https://img.shields.io/github/stars/SLIIT-GC/Official-web-page.svg?style=flat-square
 [stars-url]: https://github.com/SLIIT-GC/Official-web-page/stargazers
