@@ -9,10 +9,10 @@ include "header.php";
  <center><h2>Executive Board </h2></center></br>
  <table cellpadding="20" >
  <tr>
-		<th style="text-align:center" > <img src="contact_img\janitha.png" alt="" width="100%" ></th>
-		<th style="text-align:center" >  <img src="contact_img\empro.png" alt=" " width="100%" ></th>
-		<th style="text-align:center" > <img src="contact_img\rash2.png" alt=" " width="100%" ></th>
-		<th style="text-align:center" > <img src="contact_img\wanni.png" alt=" " width="89%" ></th>
+		<th style="text-align:center" > <img src="contact_img\janitha.png" alt=Janitha"" width="100%" ></th>
+		<th style="text-align:center" >  <img src="contact_img\empro.png" alt="Empro " width="100%" ></th>
+		<th style="text-align:center" > <img src="contact_img\rash2.png" alt="Rashan" width="100%" ></th>
+		<th style="text-align:center" > <img src="contact_img\wanni.png" alt=" Wanni" width="89%" ></th>
 		
 		
 	</tr>
@@ -54,9 +54,9 @@ include "header.php";
  
   <table cellpadding="20" id = "contact2">
  <tr>
-		<th style="text-align:center" >  <img src="contact_img\legend.png" alt=" " width="100%" ></th>
-		<th style="text-align:center" >  <img src="contact_img\malaka.png" alt=" " width="100%" ></th>
-		<th style="text-align:center" > <img src="contact_img\rivi.png" alt=" " width="75%" ></th>
+		<th style="text-align:center" >  <img src="contact_img\legend.png" alt="Legend " width="100%" ></th>
+		<th style="text-align:center" >  <img src="contact_img\malaka.png" alt=" Malaka " width="100%" ></th>
+		<th style="text-align:center" > <img src="contact_img\rivi.png" alt=" Rivindu" width="75%" ></th>
 		
 		
 		
