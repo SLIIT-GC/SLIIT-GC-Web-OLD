@@ -21,7 +21,11 @@
 
         <script src="js/bootstrap.js"></script>
         <script src="js/bootstrap.min.js"></script>
-
+	 <script>
+            .navbar a{
+                text-shadow: 2px 2px #ff0000;
+            }
+        </script>
         <link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800' rel='stylesheet' type='text/css'>
         <!--        [if IE]>
                 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
