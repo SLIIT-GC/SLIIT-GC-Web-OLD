@@ -7,6 +7,9 @@
 [![Fork][forks-shield]][forks-url]
 
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][6.1]][6]
 
 
 
@@ -128,3 +131,11 @@ Project Link: [https://github.com/SLIIT-GC/Official-web-page](https://github.com
 [license-shield]: https://img.shields.io/github/license/SLIIT-GC/Official-web-page.svg?style=flat-square
 [license-url]: https://github.com/SLIIT-GC/Official-web-pageblob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
+[6.1]: http://i.imgur.com/0o48UoR.png (github)
+
+[1]: http://www.twitter.com/sliitgc
+[2]: http://www.facebook.com/sliitgc
+[6]: http://www.github.com/SLIIT-GC
