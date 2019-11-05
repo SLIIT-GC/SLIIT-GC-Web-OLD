@@ -119,6 +119,7 @@ Project Link: [https://github.com/SLIIT-GC/Official-web-page](https://github.com
 
 <p align="center">
   <img  src="https://github.com/SLIIT-GC/official-website/blob/master/favicon/SLIIT%20gc%20logo%20rhs.png" width="13%">
+ <h4>SLIIT Gaming Community</h4>
 </p>
 
 
