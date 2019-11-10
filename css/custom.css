@@ -39,3 +39,8 @@ and open the template in the editor.
     /*border: 1px solid red;*/
     color: white !important;
 }
+
+.navbar-scrolled {
+    background: #404040!important;
+    background: rgba(0,0,0,0.9)!important;
+}

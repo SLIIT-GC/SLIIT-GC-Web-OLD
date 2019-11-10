@@ -47,7 +47,7 @@
 
 
         <!--Navbar-->
-        <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+        <nav id="header" class="navbar navbar-expand-lg navbar-light bg-transparent">
 
             <!-- Navbar brand -->
 
